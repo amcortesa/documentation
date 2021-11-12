@@ -2,11 +2,11 @@
 Using Routes and Pull/Push Rules
 ================================
 
-In inventory management, the supply chain strategy determines when
-products should be fabricated, delivered to distribution centers, and
-made available in the retail channel.
+En la administración de inventario, la estrategia de la cadena de abastecimiento 
+determina cuándo deben ser fabricados los productos, entregados a los centros de distribución,
+y habilitados como disponibles en el canal de comercialización.
 
-This kind of strategic process can be configured using *Routes*,
+Este tipo de proceso estrategico puede ser configurado usando *Rutas*,
 featuring *Pull and Push Rules*. Once everything is properly
 configured, the inventory app can automatically generate transfers
 following the instructions given by the rules. Yes, Odoo simplifies your
